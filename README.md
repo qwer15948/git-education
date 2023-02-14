@@ -1,2 +1,2 @@
-# git-education
-Git 교육용 저장소
+# GIT 교육용 저장소
+TEST 연습
